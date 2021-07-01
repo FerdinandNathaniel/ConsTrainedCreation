@@ -1,0 +1,51 @@
+"";"ID";"Mail";"X";"Survey";"Lab.1";"Education";"Education.num";"Employment";"Employment.num";"Openness";"vs";"vm";"vc";"as";"am";"ac";"ts";"tm";"tc";"avg_rating";"Avg..simple.";"Avg..medium.";"Avg..complex.";"Avg.Visual";"Avg.Audio";"Avg.Text";"rand_c_1";"rand_c_2";"int_c_1";"X.1";"int_c_2"
+"1";1;"deliahou@gmail.com";"dumb
+none
+smart";TRUE;TRUE;"completed postgraduate education (e.g., masters)";3;"sporadic gigs";1;92;7;8;5;8;8;10;2;6;10;7,1;5,7;7,3;8,3;6,7;8,7;6;"Visual [simple]";"Audio [complex]";"Audio [complex]";NA;"Text [complex]"
+"2";3;"mariadelosangelespais@gmail.com";"none
+dumb
+smart";TRUE;TRUE;"trade/technical/vocational training";1;"None";0;93;5;5;6;6;6;0;4;6;0;4,2;5;5,7;2;5,3;4;3,3;"Text [complex]";"Visual [complex]";"Visual [medium]";NA;"Audio [complex]"
+"3";5;"bperjesb@gmail.com";"none
+smart
+dumb";TRUE;TRUE;"partial doctoral education (e.g., PhD)";3;"Full-time";2;89;9;8;9;10;10;10;7;7;8;8,7;8,7;8,3;9;8,7;10;7,3;"Text [simple]";"Text [medium]";"Text [complex]";NA;""
+"4";6;"mathilde.delval@hotmail.fr";"dumb
+smart
+none";TRUE;FALSE;"completed undergraduate education (graduated college/university)";2;"Full-time";2;86;7;9;6;4;8;7;8;6;5;6,7;NA;NA;NA;NA;NA;NA;"Audio [simple]";"Audio [complex]";"Visual [simple]";NA;""
+"5";7;"laetitia.tin@gmail.com";"dumb
+none
+smart";TRUE;FALSE;"partial postgraduate education (e.g., master's)";3;"Full-time";2;84;10;6;5;8;7;9;4;5;10;7,1;NA;NA;NA;NA;NA;NA;"Text [complex]";"Audio [complex]";"Audio [simple]";NA;""
+"6";9;"naima.souhair@hotmail.com";"dumb
+none
+smart";TRUE;TRUE;"completed undergraduate education (graduated college/university)";2;"Freelancing, before covid fulltime. At the moment on and off, either fulltime or no work.";2;82;7;7;6;10;6;6;8;5;6;6,8;8,3;6;6;6,7;7,3;6,3;"Text [complex]";"Audio [medium]";"Visual [simple]";NA;""
+"7";10;"chiaraaldorisio@gmail.com";"none
+smart
+dumb";TRUE;TRUE;"completed undergraduate education (graduated college/university)";2;"Full-time";2;76;7;7;4;3;9;9;5;7;3;6;5;7,7;5,3;6;7;5;"Audio [medium]";"Text [medium]";"Audio [simple]";NA;""
+"8";13;"jasna.cizmek.tarbuk@gmail.com";"smart
+none
+dumb";TRUE;FALSE;"completed postgraduate education (e.g., masters)";3;"Full-time";2;90;9;7;6;9;9;10;5;7;9;7,9;NA;NA;NA;NA;NA;NA;"Visual [complex]";"Audio [medium]";"Text [complex]";NA;"Audio [complex]"
+"9";15;"juansebastiangoga@gmail.com";"smart
+none
+dumb";TRUE;FALSE;"completed undergraduate education (graduated college/university)";2;"Part-time";1;92;8;7;5;3;6;8;8;6;4;6,1;NA;NA;NA;NA;NA;NA;"Text [simple]";"Audio [medium]";"Text [complex]";NA;""
+"10";17;"hofmann-lisa@hotmail.de";"smart
+none
+dumb";TRUE;FALSE;"completed postgraduate education (e.g., masters)";3;"Self-employed";3;93;10;7;8;9;10;9;3;6;7;7,7;NA;NA;NA;NA;NA;NA;"Visual [medium]";"Text [simple]";"Audio [complex]";NA;""
+"11";20;"walsh.cathy@gmail.com";"dumb
+none
+smart";TRUE;FALSE;"completed postgraduate education (e.g., masters)";3;"Part-time";1;90;7;9;5;7;9;10;5;6;9;7,4;NA;NA;NA;NA;NA;NA;"Audio [simple]";"Audio [medium]";"Visual [complex]";NA;""
+"12";22;"lovreglio.alessia@gmail.com";"";TRUE;FALSE;"completed postgraduate education (e.g., masters)";3;"Part-time";1;96;7;7;8;9;9;10;4;6;9;7,7;NA;NA;NA;NA;NA;NA;"Text [complex]";"Text [simple]";"";NA;"Audio [simple]"
+"13";26;"tjloundo@gmail.com";"none
+smart
+dumb";TRUE;FALSE;"completed undergraduate education (graduated college/university)";2;"Full-time";2;92;6;9;6;6;5;5;9;6;5;6,3;NA;NA;NA;NA;NA;NA;"Audio [complex]";"Text [simple]";"Visual [medium]";NA;"Visual [medium]"
+"14";32;"majita7@hotmail.com";"smart
+none
+dumb";TRUE;FALSE;"partial doctoral education (e.g., PhD)";3;"Full-time";2;98;8;8;7;10;9;9;5;8;9;8,1;NA;NA;NA;NA;NA;NA;"Text [medium]";"Audio [simple]";"Text [medium]";NA;""
+"15";34;"nebahaterpolatdance@gmail.com";"dumb
+none
+smart";TRUE;FALSE;"partial postgraduate education (e.g., master's)";3;"Full-time";2;93;7;8;7;10;8;10;6;7;9;8;NA;NA;NA;NA;NA;NA;"Text [simple]";"Text [medium]";"Visual [medium]";NA;""
+"16";36;"ajamontalto@gmail.com";"dumb
+smart
+none";TRUE;TRUE;"completed undergraduate education (graduated college/university)";2;"Part-time";1;91;6;10;7;1;4;5;10;4;6;5,9;5,7;6;6;7,7;3,3;6,7;"Visual [medium]";"Visual [simple]";"Visual [medium]";NA;"Text [complex]"
+"17";38;"marilyngreenart@gmail.com";"";TRUE;FALSE;"partial postgraduate education (e.g., master's)";3;"Director of movement choir for a church, freelance choreographer";3;88;9;8;6;9;8;9;5;6;7;7,4;NA;NA;NA;NA;NA;NA;"Text [simple]";"Text [complex]";"";NA;""
+"18";39;"yanovska.al@gmail.com";"smart
+none
+dumb";TRUE;FALSE;"partial undergraduate education (e.g., bachelor's)";2;"Part-time";1;65;7;8;6;4;7;8;9;6;5;6,7;NA;NA;NA;NA;NA;NA;"Text [simple]";"Text [medium]";"Text [medium]";NA;"Audio [medium]"
